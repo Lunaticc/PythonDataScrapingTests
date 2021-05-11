@@ -1,0 +1,15 @@
+,Raw material,Refinery,Basic refinery,Survival kit,Refined material
+0,Stone,1.4%,0.98%,1.4%,Gravel
+1,-,3%,2.1%,3%,Iron ingots
+2,-,0.24%,0.168%,0.24%,Nickel ingots
+3,-,0.4%,0.28%,0.4%,Silicon wafers
+4,Scrap Metal,80%,56%,-,Iron ingots
+5,Iron,70%,49%,-,Iron ingots
+6,Nickel,40%,28%,-,Nickel ingots
+7,Silicon,70%,49%,-,Silicon wafers
+8,Cobalt,30%,21%,-,Cobalt ingots
+9,Magnesium,0.7%,0.49%,-,Magnesium powder
+10,Silver,10%,-,-,Silver ingots
+11,Gold,1%,-,-,Gold ingots
+12,Uranium,1%,-,-,Uranium ingots
+13,Platinum,0.5%,-,-,Platinum ingots
